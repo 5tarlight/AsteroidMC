@@ -1,0 +1,8 @@
+name: Asteroid
+version: 1.0.0-alpha
+main: com.yeahx4.github.plugin.Asteroid
+api-version: 1.16
+prefix: Asteroid
+authors: [ YEAHx4 ]
+description: asteroid game in minecraft
+website: github.com/5tarlight
