@@ -6,3 +6,9 @@ prefix: Asteroid
 authors: [ YEAHx4 ]
 description: asteroid game in minecraft
 website: github.com/5tarlight
+
+commands:
+  asteroid:
+    aliases: ["에스터로이드"]
+    usage: "/asteroid"
+    description: "Plugin Command"
